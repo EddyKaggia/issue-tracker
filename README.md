@@ -16,7 +16,7 @@
 
 > [Prisma schema](prisma/schema.prisma)
 
-> [API] (app/api/issues/route.ts)
+> [API](app/api/issues/route.ts)
 
 ### Packages used
 
