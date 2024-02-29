@@ -2,6 +2,8 @@
 
 > This full-stack application is an issue tracker built with [Next.js](https://nextjs.org/) 13+ and [TypeScript](https://www.typescriptlang.org/).
 
+![Screenshot 2024-02-28 at 6 28 16 PM](https://github.com/EddyKaggia/issue-tracker/assets/79530586/c144b1c6-01fa-47e3-80a4-cb0bfa9a6b33)
+
 ### UI
 
 Styling is implemented with [Radix UI](https://www.radix-ui.com/) and [Tailwind](https://tailwindcss.com/).
