@@ -10,7 +10,7 @@
 
 ### Backend
 
-> Prisma is used to integrate Next.js with a MySQL database.(prisma/schema.prisma)
+> Prisma is used to integrate Next.js with a MySQL database.[Prisma schema](prisma/schema.prisma)
 
 > RESTful APIs are implemented.
 
